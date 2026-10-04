@@ -1,6 +1,6 @@
-# Awesome AI for Small Business [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of practical AI tools that help small businesses do more with less — marketing, customer support, bookings, bookkeeping, and beyond. No hype, just tools a real business can use on Monday morning.
+> A curated list of practical AI tools for getting real work done — marketing, customer support, bookings, bookkeeping, and beyond. No hype, just tools you can use on Monday morning.
 
 ## Contents
 
@@ -23,7 +23,7 @@
 
 - [ChatGPT](https://chatgpt.com) — The all-rounder: writing, research, planning, and customer-message drafts. The free tier covers a lot.
 - [Claude](https://claude.ai) — Excellent for long documents, careful writing, and analysis.
-- [Gemini](https://gemini.google.com) — Google's assistant; a natural fit if your business lives in Google Workspace.
+- [Gemini](https://gemini.google.com) — Google's assistant; a natural fit if your team lives in Google Workspace.
 - [Microsoft Copilot](https://copilot.microsoft.com) — AI built into Microsoft 365 and Windows workflows.
 - [Perplexity](https://www.perplexity.ai) — Research assistant that answers with cited sources, so you can verify everything.
 
@@ -56,7 +56,7 @@
 - [Smith.ai](https://www.smith.ai) — Blended AI plus live human agents for businesses that want a human fallback.
 - [CallSphere](https://callsphere.ai) — AI agent that answers calls, books appointments, takes payments, and syncs your CRM.
 - [Slang.ai](https://www.slang.ai) — AI phone answering purpose-built for restaurants and hospitality.
-- [Answrr](https://tryanswrr.com) — 24/7 AI receptionist with appointment booking, aimed at small businesses.
+- [Answrr](https://tryanswrr.com) — 24/7 AI receptionist with appointment booking for growing teams.
 
 ## 📅 Bookings & Scheduling
 
@@ -65,7 +65,7 @@
 
 ## 📚 Bookkeeping & Finance
 
-- [QuickBooks](https://quickbooks.intuit.com) — AI-assisted bookkeeping, invoicing, and expense tracking for small firms.
+- [QuickBooks](https://quickbooks.intuit.com) — AI-assisted bookkeeping, invoicing, and expense tracking.
 - [Xero](https://www.xero.com) — Cloud accounting with smart bank reconciliation and clean invoicing.
 
 ## 📧 Email Marketing & CRM
@@ -107,10 +107,10 @@
 
 Contributions are welcome! Please open an issue or pull request to suggest a tool. A good suggestion:
 
-- Is genuinely useful for a small business (not enterprise-only, not vaporware).
+- Is genuinely useful for a real business (not enterprise-only, not vaporware).
 - Has a real product a non-technical owner can sign up for today.
 - Fits one of the categories above, with a one-line, plain-English description.
 
 ---
 
-*Curated by [Shoaib Hayat](https://github.com/Shoaibhayat90), founder of [Rani AI Services](https://raniaiservices.com) — practical AI for small businesses. Last updated October 2026.*
+*Curated by [Shoaib Hayat](https://github.com/Shoaibhayat90), founder of [Rani AI Services](https://raniaiservices.com) — practical AI for growing businesses. Last updated October 2026.*
