@@ -26,6 +26,7 @@
 - [Gemini](https://gemini.google.com) — Google's assistant; a natural fit if your team lives in Google Workspace.
 - [Microsoft Copilot](https://copilot.microsoft.com) — AI built into Microsoft 365 and Windows workflows.
 - [Perplexity](https://www.perplexity.ai) — Research assistant that answers with cited sources, so you can verify everything.
+- [DisconfirmAI](https://disconfirmai.com/en) — AI investment research platform that looks for disconfirming evidence before you form a conviction: daily reading, filings research, change radar, and personal frameworks.
 
 ## ✍️ Marketing Content & Copy
 
